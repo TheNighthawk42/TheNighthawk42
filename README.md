@@ -1,7 +1,7 @@
 <h1 align="center">YASSIR ZAYD CHEHABI</h1>
 
 <p align="center">
-  <code>student @ 42 network / 1337 rabat campus</code>
+  <code>Student at 42 RABAT Coding School (UM6P) </code>
 </p>
 
 ---
