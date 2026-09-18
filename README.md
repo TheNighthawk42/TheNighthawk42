@@ -1,7 +1,7 @@
 <h1 align="center">YASSIR ZAYD CHEHABI</h1>
 
 <p align="center">
-  <code>student of 42 NETWORK 1337 RABAT COMPUS</code>
+  <code>student @ 42 network / 1337 rabat campus</code>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### Activity Telemetry
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheNighthawk42&theme=github-compact&bg_color=000000&hide_border=true&color=ffffff&line=808080&point=ffffff&area=true&area_color=222222" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
