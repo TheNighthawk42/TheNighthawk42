@@ -7,9 +7,9 @@
 ---
 
 ### About Me
-
-- 🌱 Currently learning **network security**
-- 🔭 Currently working on **ECHIDNA PROJECT**
+-  currently studying **common core**  
+-  Currently learning **network security**
+-  Currently working on **ECHIDNA PROJECT**
 
 ---
 
